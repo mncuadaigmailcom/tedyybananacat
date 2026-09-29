@@ -1,6 +1,6 @@
 task.spawn(function()
     local success, err = pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/cantrom"))()
+        loadstring(game:HttpGet("https://mncuadaigmailcom.github.io/tedyybananacat/1111.js"))()
     end)
 end)
 -- This file was protected using Luraph Obfuscator v15.0 [https://lura.ph/]
